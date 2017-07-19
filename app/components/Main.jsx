@@ -17,7 +17,7 @@ let Main = (props) => {
   return (
     <div>
       <Nav />
-      <h2>Main Components</h2>
+      <h2>Main Components!</h2>
       {props.children}
     </div>
   );
